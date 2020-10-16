@@ -123,3 +123,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# React Libraries
+/DataMeet/DataMeet - Final Page/DataMeet/DataMeet/node_modules/*
+/DataMeet/DataMeet - Landing Page/DataMeetLanding/node_modules/*
